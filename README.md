@@ -1,3 +1,5 @@
+![Poster Feira](assets/screenshots/feira.png)
+
 # 🎮 1ª Feira de Games Mobile - ETEC Dr. Júlio Cardoso
 
 Bem-vindos ao repositório oficial da mostra de jogos desenvolvidos em Flutter/Dart pelas turmas de 2º e 3º ano de Desenvolvimento de Sistemas.

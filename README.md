@@ -103,7 +103,7 @@ Minijogo "Quem é o Jogador?"
 
 Remmy e o queijo perdido é um jogo de aventura  que nos conta a história de Remmy, um ratinho que sonha em ser chefe de cozinha e adora queijos. Nesse jogo você deve guiar Remmy até o queijo, atravessando um grande labirinto de bancadas de cozinha, mas tome cuidado, dentro da cozinha existe alguns cozinheiros que não gostam muito de Remmy.
 
-![Screenshot do Jogo](assets/screenshots/Remmy.png)
+![Screenshot do Jogo](assets/screenshots/remmy.png)
 
 - **Gênero:** Quebra-cabeça / Arcade
 - **Mecânicas:**
@@ -115,7 +115,8 @@ Remmy e o queijo perdido é um jogo de aventura  que nos conta a história de Re
       Geração procedural de mapas/labirintos
       Sistema de colisão e movimentação topdown
       Máquina de estados (exploração, diálogo, batalha, eventos)
-👉 **[BAIXAR APK DO LABIRINTO](link-direto-da-release-aqui)**
+
+👉 **[BAIXAR APK DO LABIRINTO](https://github.com/RauniCosta/feiragames/releases/download/Remmy/remmy.apk)**
 
 ---
 
@@ -162,7 +163,7 @@ boa sorte nessa aventura!!
       ENFRENTE FASES CADA VEZ MAIS DESAFIADORAS E DERROTE O PODEROSO DARKROAR.
       ESCAPE DO LABIRINTO... OU CONTINUE PRESO NELE PARA SEMPRE.
 
-👉 **[BAIXAR APK DO LABIRINTO](link-direto-da-release-aqui)**
+👉 **[BAIXAR APK DO LABIRINTO](https://github.com/RauniCosta/feiragames/releases/download/2ds/app-release.apk)**
 
 ---
 
@@ -175,14 +176,14 @@ boa sorte nessa aventura!!
       Labirintite é um labirinto de 6 fases que te leva do espaço cósmico até o núcleo da Terra.
       Cada nível é um mundo novo - desvie, explore e encontre a saída antes que a gravidade mude de ideia.
 
-![Screenshot do Jogo](assets/screenshots/tumbaperdidos.png)
+![Screenshot do Jogo](assets/screenshots/labirintite.png)
 
 - **Gênero:** Quebra-cabeça / Arcade
 - **Mecânicas:**
       Dificuldade progressiva  
       Inimigos
 
-👉 **[BAIXAR APK DO LABIRINTO](link-direto-da-release-aqui)**
+👉 **[BAIXAR APK DO LABIRINTO](https://github.com/RauniCosta/feiragames/releases/download/Labirintite/labirintite.apk)**
 
 ---
 
@@ -209,6 +210,7 @@ Principais Mecânicas
 
 - **Gênero:** Labirinto, Terror
 - **Destaque Técnico:** Linguagem Flutter
+
 👉 **[BAIXAR APK](link-direto-da-release-aqui)**
 
 ---

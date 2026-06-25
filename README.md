@@ -153,7 +153,7 @@ boa sorte nessa aventura!!
       NEM TODOS CONSEGUEM ENCONTRAR A SAÍDA... E ALGUNS PERMANECEM PRESOS NO LABIRINTO PARA SEMPRE.
 
 
-![Screenshot do Jogo](assets/screenshots/forgottenodds.png)
+![Screenshot do Jogo](assets/screenshots/forgotten_odds.png)
 
 - **Gênero:** Quebra-cabeça / Arcade
 - **Mecânicas:**
@@ -206,11 +206,11 @@ Principais Mecânicas
       Freddy não gosta de tomar jumpscare do Helpy
       Quando o Freddy não gosta de alguma coisa, bem, ele fica um pouquinho... irritado...
 
-![Screenshot do Jogo](assets/screenshots/fazbear.png)
+![Screenshot do Jogo](assets/screenshots/fazbearmaze.png)
 
 - **Gênero:** Labirinto, Terror
 - **Destaque Técnico:** Linguagem Flutter
 
-👉 **[BAIXAR APK](link-direto-da-release-aqui)**
+👉 **[BAIXAR APK](https://github.com/RauniCosta/feiragames/releases/download/Fazbeartmaze/fazbear-maze.apk)**
 
 ---

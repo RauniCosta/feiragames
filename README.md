@@ -137,7 +137,7 @@ boa sorte nessa aventura!!
       Chaves  
       Relíquias coletáveis
 
-👉 **[BAIXAR APK DO LABIRINTO](link-direto-da-release-aqui)**
+👉 **[BAIXAR APK DO LABIRINTO](https://github.com/RauniCosta/feiragames/releases/download/tumba_perdidos/tumbaperdidos.apk)**
 
 ---
 
@@ -249,7 +249,7 @@ Mecânicas
 - **Gênero:** Labirinto, Terror
 - **Destaque Técnico:** Linguagem Flutter
 
-👉 **[BAIXAR APK](https://github.com/RauniCosta/feiragames/releases/)**
+👉 **[BAIXAR APK](https://github.com/RauniCosta/feiragames/releases/download/blind_game/blind-game.apk)**
 
 ---
 

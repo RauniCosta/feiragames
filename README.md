@@ -25,7 +25,7 @@ Um jogo de escolhas e combate onde o jogador tem alguns caminhos que pode escolh
       Progressão por niveis de força
       Dificuldade de lutas e combate
 
-👉 **[BAIXAR APK DO LABIRINTO](link-direto-da-release-aqui)**
+👉 **[BAIXAR APK DO LABIRINTO](https://github.com/RauniCosta/feiragames/releases/download/conto_viking/conto_viking.apk)**
 
 ---
 
@@ -84,9 +84,10 @@ Labirinto dos Infelizes é um jogo de exploração e suspense onde dois amigos e
 ![Screenshot do Jogo](assets/screenshots/albumperdido.png)
 
 - **Gênero:** Quebra-cabeça / Arcade
+
 - **Mecânicas:**
--    Labirintos com dificuldade progressiva por fase
-   Cada novo nível apresenta mapas maiores e mais desafiadores, Ganhe recompensas por completar desafios.
+      Labirintos com dificuldade progressiva por fase
+      Cada novo nível apresenta mapas maiores e mais desafiadores, Ganhe recompensas por completar desafios.
 
 Pacotes de Figurinhas
    Ao concluir uma fase, você recebe um pacote de figurinhas. Colecione jogadores e complete o álbum dentro do jogo.
@@ -94,7 +95,7 @@ Pacotes de Figurinhas
 Minijogo "Quem é o Jogador?"
    Identifique jogadores a partir de imagens borradas. Quanto mais cedo acertar, maior será sua pontuação. A imagem revela mais detalhes conforme as tentativas avançam
 
-👉 **[BAIXAR APK DO LABIRINTO](link-direto-da-release-aqui)**
+👉 **[BAIXAR APK DO LABIRINTO](https://github.com/RauniCosta/feiragames/releases/download/Album_Perdido/albumperdido.apk)**
 
 ---
 ### 5. Remmy e o queijo perdido

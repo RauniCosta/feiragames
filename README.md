@@ -103,7 +103,7 @@ Minijogo "Quem é o Jogador?"
 
 Remmy e o queijo perdido é um jogo de aventura  que nos conta a história de Remmy, um ratinho que sonha em ser chefe de cozinha e adora queijos. Nesse jogo você deve guiar Remmy até o queijo, atravessando um grande labirinto de bancadas de cozinha, mas tome cuidado, dentro da cozinha existe alguns cozinheiros que não gostam muito de Remmy.
 
-![Screenshot do Jogo](assets/screenshots/remmy.png)
+![Screenshot do Jogo](assets/screenshots/Remmy.png)
 
 - **Gênero:** Quebra-cabeça / Arcade
 - **Mecânicas:**

@@ -2,9 +2,9 @@
 
 # 🎮 1ª Feira de Games Mobile - ETEC Dr. Júlio Cardoso
 
-Bem-vindos ao repositório oficial da mostra de jogos desenvolvidos em Flutter/Dart pelas turmas de 2º e 3º ano de Desenvolvimento de Sistemas.
+Bem-vindos ao repositório oficial da mostra de jogos mobile desenvolvidos em Flutter/Dart pelas turmas de Desenvolvimento de Sistemas.
 
-> **Data:** 25 de Junho de 2026
+> **Data:** 25 de Junho de 2026 a 26 de Junho de 2026 a
 > **Aviso de Instalação:** Para jogar, você precisará permitir a instalação de "Fontes Desconhecidas" nas configurações do seu Android.
 
 ---
@@ -187,7 +187,6 @@ boa sorte nessa aventura!!
 
 ---
 
-
 ### 9. Fazbear Maze
 **Desenvolvedores: Mateus Gonçalves | **Turma:** 3º Ano DS
 
@@ -212,5 +211,68 @@ Principais Mecânicas
 - **Destaque Técnico:** Linguagem Flutter
 
 👉 **[BAIXAR APK](https://github.com/RauniCosta/feiragames/releases/download/Fazbeartmaze/fazbear-maze.apk)**
+
+---
+
+### 10. Maze Runner
+**Desenvolvedores: Felipe Albano, Felipe Soares
+
+**Turma:** 2º Ano DS
+
+Preso em um labirinto infestado de zumbis, vocês
+
+![Screenshot do Jogo](assets/screenshots/mazerunner.png)
+
+- **Gênero:** Labirinto, Terror
+- **Destaque Técnico:** Linguagem Flutter
+
+👉 **[BAIXAR APK](https://github.com/RauniCosta/feiragames/releases/)**
+
+---
+
+### 11. Blind game
+**Desenvolvedores: Luan, Marcos, Kauan | 
+
+**Turma:** 2º Ano DS
+
+Sobre o Jogo
+      Você é um cego em um labirinto que a cada nível que você passa ele aumenta. Depois do nível 6 um inimigo começa a te perseguir tentando te matar, tente ir o mais longe que conseguir.
+
+Mecânicas
+      Progressão de níveis 
+      Progressão de dificuldade
+      Perseguição
+
+
+![Screenshot do Jogo](assets/screenshots/blindgame.png)
+
+- **Gênero:** Labirinto, Terror
+- **Destaque Técnico:** Linguagem Flutter
+
+👉 **[BAIXAR APK](https://github.com/RauniCosta/feiragames/releases/)**
+
+---
+
+### 12. Nerd Runner
+**Desenvolvedores: Nicolas, Matheus Felipe, Vinicius
+
+**Turma:** 2º Ano DS
+
+Sobre o Jogo
+      Nerd Runner é um jogo de aventura, raciocínio lógico e velocidade onde o jogador assume o papel de um jovem nerd em uma jornada repleta de desafios matemáticos e enigmas. Durante a corrida, será necessário atravessar labirintos, superar obstáculos e resolver puzzles que aparecem ao longo do caminho para continuar avançando.
+      Cada fase apresenta novos desafios, exigindo atenção, estratégia e conhecimento matemático. Quanto mais rápido e eficiente o jogador resolver os problemas, maior será sua pontuação e suas chances de alcançar o final da aventura.
+      Prepare-se para testar sua inteligência, seus reflexos e sua capacidade de resolver problemas em uma experiência divertida e educativa.
+
+Mecânicas
+      Progressão de níveis
+      Labirintos desafiadores
+      Puzzles durante a corrida
+
+![Screenshot do Jogo](assets/screenshots/nerdrunner.png)
+
+- **Gênero:** Labirinto, Terror
+- **Destaque Técnico:** Linguagem Flutter
+
+👉 **[BAIXAR APK](https://github.com/RauniCosta/feiragames/releases/)**
 
 ---
